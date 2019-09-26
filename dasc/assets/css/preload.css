@@ -25,23 +25,26 @@ body {
     background-position:center;
     margin:-100px 0 0 -100px; /* is width and height divided by two */
 }
+
 /*# sourceMappingURL=preload.css.map */
 
 /* Custom CSS */
-div.dasc-title {
-    font-size: 1.7em;
+div.cybersci-title{
+    font-size: 2em;
     font-family: "Lato", sans-serif;
     font-weight: 900;
-    line-height: 120%;
+    line-height: 180%;
     color: #000000;
+    margin: 20px 0 17px 0;
 }
 div.left{
     float:left;
-    padding-top: 17px;
-
 }
 div.right{
     float:right;
-    padding-top: 10px;
-    padding-bottom: 17px;
+}
+h3 {
+color: #1B365D;
+
+
 }
